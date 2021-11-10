@@ -1,0 +1,13 @@
+{
+  "name": "BowBombPlugin",
+  "version": "1.1",
+  "authors": [
+    "Fluffery"
+  ],
+  "description": "bow go pew pew",
+  "url": "",
+  "min_api_version": "2.05.01",
+  "required_plugins": [],
+  "main_class": "BowBombPlugin",
+  "hot_reload": true
+}
