@@ -1,13 +1,13 @@
 {
-  "name": "BowBombPlugin",
-  "version": "1.1",
+  "name": "BowKillerPlugin",
+  "version": "1.2",
   "authors": [
-    "Fluffery"
+    "Fluffery but probs skidded from somewhere but idk where"
   ],
   "description": "bow go pew pew",
   "url": "",
   "min_api_version": "2.05.01",
   "required_plugins": [],
-  "main_class": "BowBombPlugin",
+  "main_class": "BowKillerPlugin",
   "hot_reload": true
 }
